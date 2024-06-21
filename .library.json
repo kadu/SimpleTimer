@@ -1,0 +1,28 @@
+{
+    "name": "SimpleTimer", 
+    "repository": {
+        "url": "https://github.dev/kadu/SimpleTimer.git", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "atmelavr",
+		"espressif8266"
+    ], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "002", 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "Kadu", 
+            "url": "https://github.com/kadu", 
+            "email": "kadu@kadu.com.br"
+        }
+    ], 
+    "keywords": [
+        "timer"
+    ], 
+    "id": 419, 
+    "description": "SimpleTimer Library for Arduino (jf.turcot fork with example)"
+}
